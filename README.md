@@ -1,2 +1,2 @@
-#Namaste React
+Namaste React
 EP1
